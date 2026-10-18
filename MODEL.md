@@ -67,21 +67,17 @@ flowchart TB
     polls --> trend["National trend"]:::term
     past1 --> swing["Regional deviation"]:::term
     past2 --> turnout["Turnout"]:::term
-    trend --> plus(("+")):::op
-    swing --> plus
-    plus --> times(("×")):::op
-    turnout --> times
-    times --> result["Votes per party per district"]:::res
+    trend --> share["Vote share<br/>= trend + deviation"]:::step
+    swing --> share
+    share --> result["Votes per party<br/>= vote share × turnout"]:::res
+    turnout --> result
 
     classDef src fill:#ffc000,stroke:#ffc000,color:#fff,font-weight:bold
     classDef term fill:#2e5f8a,stroke:#2e5f8a,color:#fff,font-weight:bold
-    classDef op fill:#fff,stroke:#333,color:#333,font-size:20px
+    classDef step fill:#5b87b3,stroke:#5b87b3,color:#fff
     classDef res fill:#c00000,stroke:#c00000,color:#fff,font-weight:bold
-    style sources fill:#fff,stroke:#fff
+    style sources fill:none,stroke:none
 ```
-
-- **National trend + regional deviation** = each party's vote share in a district.
-- **× turnout** = how many votes that share is worth.
 
 Each component comes with uncertainty, so each one is simulated rather than fixed. The next three sections go through
 them one at a time.
