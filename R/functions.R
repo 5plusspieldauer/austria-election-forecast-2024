@@ -13,7 +13,7 @@ party_order <- tibble(party = parties_2024,
 party_labels <- c("ÖVP" = "ÖVP", "SPÖ" = "SPÖ", "FPÖ" = "FPÖ", "GRÜNE" = "Grüne", "NEOS" = "NEOS",
                   "KPÖ" = "KPÖ", "BIER" = "Bierpartei", "LMP" = "LMP", "KEINE" = "KEINE")
 
-color_palette <- c("FPÖ"   = "#804c19",
+color_palette <- c("FPÖ"   = "#0056a2",
                    "SPÖ"   = "#e3000f",
                    "ÖVP"   = "#63c3d0",
                    "GRÜNE" = "#51a51e",

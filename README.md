@@ -17,6 +17,13 @@ Every simulation then goes through Austria's three-tier seat-allocation law to p
 - **[MODEL.md](MODEL.md)** explains how the model works, step by step.
 - **[POSTMORTEM.md](POSTMORTEM.md)** compares the final forecast (27 September 2024) with the official result.
 
+## How it held up
+
+<p align="center"><img src="figures/postmortem_votes.png" alt="Forecast vs. result, vote share"></p>
+
+8 of 9 parties landed inside their 90% forecast interval, and SPÖ, Grüne and NEOS were within a point of the result.
+The clear miss was the Bierpartei: it polled at 4.7% and got 2.0%. Details in [POSTMORTEM.md](POSTMORTEM.md).
+
 ## Reproducing it
 
 Requires R ≥ 4.3 and the packages `tidyverse`, `MASS`, `sf`, `ragg`, `patchwork` and `scales` (plus `readxl` for
@@ -53,3 +60,8 @@ those inputs were estimated.
   used only for the post-mortem, never as a model input.
 - **Polls:** the [@Wahlen_AT](https://twitter.com/Wahlen_AT) poll collection.
 - **District boundaries:** Statistik Austria, Regionalwahlkreise 2024.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The data in `data/` comes from the sources above and remains
+subject to their terms; the MIT License does not apply to it.
