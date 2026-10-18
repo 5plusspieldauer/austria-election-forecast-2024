@@ -1,0 +1,9 @@
+coalition,seats_median,p_majority
+FPÖ + ÖVP,99,0.9983
+ÖVP + SPÖ,87,0.0499
+ÖVP + SPÖ + NEOS,105,1
+ÖVP + SPÖ + GRÜNE,103,0.9978
+ÖVP + GRÜNE + NEOS,81,0.0252
+SPÖ + GRÜNE + NEOS,75,0
+ÖVP + GRÜNE,62,0
+ÖVP + NEOS,64,0

@@ -1,0 +1,10 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# full simulation output (~110 MB) - regenerate with Rscript run_forecast.R
+output/*.rds
+
+# rendered previews of the .md files
+*.html

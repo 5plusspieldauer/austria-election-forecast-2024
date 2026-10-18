@@ -1,0 +1,49 @@
+﻿Wahlkreis;GKZ;Bezeichnung;Mandate;Bezirke
+1A;G1A000;Burgenland Nord;4;Eisenstadt, Eisenstadt-Umgebung, Mattersburg, Neusiedl am See, Rust
+1B;G1B000;Burgenland Süd;3;Güssing, Jennersdorf, Oberpullendorf, Oberwart
+2A;G2A000;Klagenfurt;3;Klagenfurt am Wörthersee, Klagenfurt-Land
+2B;G2B000;Villach;3;Villach, Villach-Land
+2C;G2C000;Kärnten West;3;Feldkirchen, Hermagor, Spittal an der Drau
+2D;G2D000;Kärnten Ost;3;Sankt Veit an der Glan, Völkermarkt, Wolfsberg
+3A;G3A000;Weinviertel;5;Hollabrunn, Korneuburg, Mistelbach
+3B;G3B000;Waldviertel;5;Gmünd, Horn, Krems an der Donau, Krems-Land, Waidhofen an der Thaya, Zwettl
+3C;G3C000;Mostviertel;6;Amstetten, Melk, Scheibbs, Waidhofen an der Ybbs
+3D;G3D000;Niederösterreich Mitte;7;Lilienfeld, St. Pölten, St. Pölten-Land, Tulln
+3E;G3E000;Niederösterreich Süd;4;Neunkirchen, Wiener Neustadt, Wiener Neustadt-Land
+3F;G3F000;Thermenregion;6;Baden, Mödling
+3G;G3G000;Niederösterreich Ost;4;Bruck an der Leitha, Gänserndorf
+4A;G4A000;Linz und Umgebung;7;Linz, Linz-Land
+4B;G4B000;Innviertel;5;Braunau am Inn, Ried im Innkreis, Schärding
+4C;G4C000;Hausruckviertel;8;Eferding, Grieskirchen, Vöcklabruck, Wels, Wels-Land
+4D;G4D000;Traunviertel;6;Gmunden, Kirchdorf an der Krems, Steyr, Steyr-Land
+4E;G4E000;Mühlviertel;6;Freistadt, Perg, Rohrbach, Urfahr-Umgebung
+5A;G5A000;Salzburg Stadt;3;Salzburg
+5B;G5B000;Flachgau/Tennengau;4;Hallein, Salzburg-Umgebung
+5C;G5C000;Lungau/Pinzgau/Pongau;4;St. Johann im Pongau, Tamsweg, Zell am See
+6A;G6A000;Graz und Umgebung;9;Graz, Graz-Umgebung
+6B;G6B000;Oststeiermark;6;Hartberg-Fürstenfeld, Südoststeiermark, Weiz
+6C;G6C000;Weststeiermark;5;Deutschlandsberg, Leibnitz, Voitsberg
+6D;G6D000;Obersteiermark;7;Bruck-Mürzzuschlag, Leoben, Liezen, Murau, Murtal
+7A;G7A000;Innsbruck;2;Innsbruck
+7B;G7B000;Innsbruck-Land;6;Innsbruck-Land, Schwaz
+7C;G7C000;Unterland;4;Kitzbühel, Kufstein
+7D;G7D000;Oberland;3;Imst, Landeck, Reutte
+7E;G7E000;Osttirol;1;Lienz
+8A;G8A000;Vorarlberg Nord;4;Bregenz, Dornbirn
+8B;G8B000;Vorarlberg Süd;4;Bludenz, Feldkirch
+9A;G9A000;Wien Innen-Süd;3;Landstraße, Margareten, Wieden
+9B;G9B000;Wien Innen-West;3;Alsergrund, Innere Stadt, Josefstadt, Mariahilf, Neubau
+9C;G9C000;Wien Innen-Ost;3;Brigittenau, Leopoldstadt
+9D;G9D000;Wien Süd;6;Favoriten, Meidling, Simmering
+9E;G9E000;Wien Süd-West;6;Hietzing, Liesing, Penzing, Rudolfsheim-Fünfhaus
+9F;G9F000;Wien Nord-West;5;Döbling, Hernals, Ottakring, Währing
+9G;G9G000;Wien Nord;7;Donaustadt, Floridsdorf
+;G10000;Burgenland;7;
+;G20000;Kärnten;12;
+;G30000;Niederösterreich;37;
+;G40000;Oberösterreich;32;
+;G50000;Salzburg;11;
+;G60000;Steiermark;27;
+;G70000;Tirol;16;
+;G80000;Vorarlberg;8;
+;G90000;Wien;33;
